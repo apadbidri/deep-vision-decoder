@@ -1,5 +1,4 @@
 # Deep Vision Decoder
-__
 
 This project uses deep learning to classify grayscale images into 26 visually similar categories using CNNs. Once trained, the model is applied to decode a hidden message from a sequence of unlabeled images.
 
